@@ -17,7 +17,7 @@ La idea es que puedas levantar tu PROPIO proyecto en tu maquina local utilizando
 
 ## Para la vista del administrador
 [![Captura3.png](https://i.postimg.cc/pLBS1vsK/Captura3.png)](https://postimg.cc/tsYDYKQg)
-- img3 ...
+
 
 ### Indice
 
