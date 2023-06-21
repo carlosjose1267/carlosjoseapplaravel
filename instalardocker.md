@@ -28,6 +28,7 @@ su - ${USER}
 ~~~
 id -nG
 ~~~
+#### Pon el nombre de usuario de tu maquina ubuntu por ejemplo en mi caso seria:
 ~~~
-sudo usermod -aG docker username 
+sudo usermod -aG docker carlos
 ~~~
