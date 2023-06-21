@@ -7,27 +7,26 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+# Introducción
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+El objetivo de este proyecto sera conseguir emular todo el proceso de esta tienda de peliculas, en ella tendremos una vista para el usuario y en la otra tendremos una vista para el administrador que porsupuesto tendra una restriccion a estas vistas, en esas vistas que podra manejar las peliculas mediante un crud con las clasicas funcionalidades de listar, añadir productos, modificarlos y borrarlos. Ademas también podremos comprar ese producto mediante un botón de la api de paypal donde podremos comprar ese producto de forma singular, usaremos la versión sandbox de la api. Y todo esto en un contenedor de docker, por lo que tambien si queremos podriamos desplegar nuestra aplicacion en un entorno de producción.
+La idea es que puedas levantar tu PROPIO proyecto en tu maquina local utilizando mi codigo en todo momento para las creaciones de las vistas, funciones de los controladores y demás, aqui puedes ver algunas capturas de como se visualiza este proyecto.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Captura.png](https://postimg.cc/ft2hf4Lr)
+- img2 ...
+- img3 ...
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### Indice
 
-## Learning Laravel
+- Docker y Docker Compose.
+- Instalacion del framework de laravel.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+
+## Instalación de Docker y Docker Compose
+
+Antes de comenzar deberemos de 
 
 ## Laravel Sponsors
 
