@@ -9,7 +9,7 @@
 
 # Introducción
 
-El objetivo de este proyecto sera que consigas emular todo el proceso de esta tienda de peliculas, en ella tendremos una vista para el usuario y en la otra tendremos una vista para el administrador que porsupuesto tendra una restriccion a estas vistas, en esas vistas que podra manejar las peliculas mediante un crud con las clasicas funcionalidades de listar, añadir productos, modificarlos y borrarlos. Ademas también podremos comprar ese producto mediante un botón de la api de paypal donde podremos comprar ese producto de forma singular, usaremos la versión sandbox de la api. Y todo esto en un contenedor de docker, por lo que tambien si queremos podriamos desplegar nuestra aplicacion en un entorno de producción.
+El objetivo de este proyecto sera que consigas emular todo el proceso de esta tienda de peliculas, en ella tendremos una vista para el usuario y otra vista para el administrador, en la vista del administrador tendra una restriccion a estas vistas que requerira de autentiticación, en esas vistas que podra manejar las peliculas mediante un crud con las clasicas funcionalidades de listar, añadir productos, modificarlos y borrarlos. Ademas también podremos comprar ese producto mediante un botón de la api de paypal donde podremos comprar ese producto de forma singular, usaremos la versión sandbox de la api. Y todo esto en un contenedor de docker, por lo que tambien si queremos podriamos desplegar nuestra aplicacion en un entorno de producción.
 
 La idea es que puedas levantar tu PROPIO proyecto en tu maquina local utilizando mi codigo en todo momento para las creaciones de las vistas, funciones de los controladores y demás, aqui puedes ver algunas capturas de como se visualiza este proyecto.
 
