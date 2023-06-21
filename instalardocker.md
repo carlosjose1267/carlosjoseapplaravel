@@ -1,4 +1,9 @@
 ## Instalación de Docker y Docker Compose
+
+<p align="center">
+<img src="https://i.postimg.cc/rwzZK01s/Captura4.png"   
+</p>
+
 Para ejecutar la aplicacion necesitaremos tener docker instalado ejecutaremos estos comandos desde la terminal de ubuntu:
 ~~~
 sudo apt update
