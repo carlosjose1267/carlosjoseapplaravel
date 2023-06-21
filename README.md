@@ -30,7 +30,7 @@ img en proceso
 
 
 ## Instalación de Docker y Docker Compose
-Para ejecutar la aplicacion necesitaremos tener docker instalado:
+Para ejecutar la aplicacion necesitaremos tener docker instalado ejecutaremos estos comandos desde la terminal de ubuntu:
 ~~~
 sudo apt update
 ~~~
