@@ -22,10 +22,6 @@ img en proceso
 ### Indice
 
 * [Instalar Docker y Docker Compose](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/instalardocker.md)
-- Instalacion del framework de laravel.
--
-- 
--
--
+* [Instalar laravel](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/instalarlaravel.md)
 
 
