@@ -40,4 +40,4 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.26.0/docker-
 sudo chmod +x /usr/local/bin/docker-compose
 ~~~
 
-* [Volver a la introduccion del proyecto](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/readme.md)
+[Volver a la introduccion del proyecto](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/README.md)
