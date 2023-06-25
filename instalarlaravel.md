@@ -1,4 +1,4 @@
-### Instalacion de laravel usando docker-compose
+### Instalacion de laravel y servicios usando docker-compose
 Puedes cambiar el nombre de tu proyecto, en mi caso se llama `carlosapp`
 
 ~~~
