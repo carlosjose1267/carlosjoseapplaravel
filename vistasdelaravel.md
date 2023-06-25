@@ -6,11 +6,15 @@ Creamos los directorios y lo ponemos con el siguiente nombre:
 
 `layouts` y `productos` 
 
-#### Agregando las vista general de las paginas para el usuario y administrador
+
+
+#### Agregando la vista general de las paginas para el usuario y administrador
 
 Dentro de `layouts` creamos el archivo y lo agregamos con el siguiente nombre:
 
 `index.blade.php`  --> y le agregamos todo el codigo pertinente a ese archivo: [index.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/layouts/index.blade.php)
+
+
 
 #### Agregando las vistas para el usuario y administrador
 
