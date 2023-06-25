@@ -12,9 +12,9 @@
         <ul class="nav col-12 col-lg-auto me-lg-auto justify-content-center mb-md-0">
           <li><a href="/" class="nav-link px-2 link-body-emphasis"><i class="fa-solid fa-house"></i>&nbsp;Inicio</a></li>
           
-          <li><a href="#" class="nav-link px-2 link-body-emphasis"><i class="fa-solid fa-file-code"></i>&nbsp; Documentación-GitHub</a></li>
+          <li><a href="https://github.com/carlosjose1267/carlosjoseapplaravel" class="nav-link px-2 link-body-emphasis"><i class="fa-solid fa-file-code"></i>&nbsp; Documentación-GitHub</a></li>
           
-          <li><a href="#" class="nav-link px-2 link-body-emphasis"><i class="fa-solid fa-file-lines"></i>&nbsp; DockerHub</a></li>
+         
         </ul>
 
 
