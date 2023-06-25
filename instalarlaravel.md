@@ -23,7 +23,7 @@ sudo apt install snapd
 sudo snap install code --classic
 ~~~
 
-Ahora agrega el directorio de tu proyecto al workspace de tu editor de codigo, como recomendacion puedes instalar estas extensiones, son muy utiles para trabajar y visualizar el mejor el codigo del proyecto.
+Abre el editor y agrega el directorio de tu proyecto al workspace, como recomendacion puedes instalar estas extensiones, son muy utiles para trabajar y visualizar el mejor el codigo del proyecto.
 
 <p align="center"><img src="https://i.postimg.cc/rFFn5L0h/Captura7.png"></p>
 
