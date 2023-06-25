@@ -10,7 +10,7 @@ Creamos los directorios y lo ponemos con el siguiente nombre:
 
 #### Agregando la vista general de las paginas para el usuario y administrador
 
-Dentro de `layouts` creamos el archivo y lo agregamos con el siguiente nombre:
+Dentro del directorio de `layouts` creamos el archivo y lo agregamos con el siguiente nombre:
 
 `index.blade.php`  --> y le agregamos todo el codigo pertinente a ese archivo: [index.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/layouts/index.blade.php)
 
@@ -18,7 +18,7 @@ Dentro de `layouts` creamos el archivo y lo agregamos con el siguiente nombre:
 
 #### Agregando las vistas para el usuario y administrador
 
-Dentro de `productos` creamos el archivo y lo agregamos con el siguiente nombre:
+Dentro del directorio de `productos` creamos el archivo y lo agregamos con el siguiente nombre:
 
 `editform.blade.php`  --> y le agregamos todo el codigo pertinente a ese archivo: [editform.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/productos/editform.blade.php)
 
