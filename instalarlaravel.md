@@ -9,7 +9,7 @@ Accede al directorio de tu proyecto, `cd carlosapp`, y ejecutalo: (este proceso 
 ./vendor/bin/sail up
 ~~~
 
-Ahora necesitaremos agregar y modificar diferentes cosas, pero necesitaremos de un editor de codigo, puedes usar visual studio code:
+Ahora necesitaremos agregar y modificar diferentes apartados, por lo que necesitaremos de un editor de codigo, puedes usar visual studio code:
 
 ~~~
 sudo apt update
