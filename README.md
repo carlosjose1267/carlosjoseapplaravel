@@ -27,7 +27,7 @@ La vista del administrador es la vista donde solo con el acceso autorizado podre
  <img src="https://i.postimg.cc/kGTJ2y0T/Captura3.png">
 </p>
 
-### Indice
+## Indice
 
 * [Instalacion de Docker y Docker Compose](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/instalardocker.md)
 * [Instalacion y creacion de Proyecto de Laravel](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/instalarlaravel.md)
