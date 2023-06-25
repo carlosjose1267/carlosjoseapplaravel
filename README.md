@@ -15,7 +15,7 @@ La idea es que puedas levantar tu PROPIO proyecto en tu maquina local utilizando
 
 | Vistas | Preview |
 | --- | --- |
-| Usuario | <p align="center"><img src="https://i.postimg.cc/qq9gQw7j/Captura5.png" width=500px></p> |
+| Usuario | <p align="center"><img src="https://i.postimg.cc/qq9gQw7j/Captura5.png" width=650px></p> |
 | Admin |  <p align="center"><img src="https://i.postimg.cc/kGTJ2y0T/Captura3.png"></p> |
 
 ## Indice
