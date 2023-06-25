@@ -58,5 +58,16 @@ Dentro del directorio de `auth` se nos creara unos archivos predefinos del compo
 
 `verify.blade.php`  --> le agregamos todo el codigo pertinente a ese archivo: [verify.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/auth/verify.blade.php)
 
+Dentro del directorio de `auth/password` se nos creara unos archivos predefinos del componente de autentificacion de laravel, sin embargo deberemos de modificarlos:
+
+`confirm.blade.php`  --> le agregamos todo el codigo pertinente a ese archivo: [confirm.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/auth/passwords/confirm.blade.php)
+
+`email.blade.php`  --> le agregamos todo el codigo pertinente a ese archivo: [email.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/auth/passwords/email.blade.php)
+
+`reset.blade.php`  --> le agregamos todo el codigo pertinente a ese archivo: [reset.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/auth/passwords/reset.blade.php)
+
+
+
+
 
 [Volver a la introduccion del proyecto](https://github.com/carlosjose1267/carlosjoseapplaravel/tree/main)
