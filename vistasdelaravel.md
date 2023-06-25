@@ -8,7 +8,7 @@ Creamos los directorios y lo ponemos con el siguiente nombre:
 
 
 
-#### Agregando la vista general de las paginas para el usuario y administrador
+### Agregando la vista general de las paginas para el usuario y administrador
 
 Dentro del directorio de `layouts` creamos el archivo y lo agregamos con el siguiente nombre:
 
@@ -16,7 +16,7 @@ Dentro del directorio de `layouts` creamos el archivo y lo agregamos con el sigu
 
 
 
-#### Agregando las vistas para el usuario y administrador
+### Agregando las vistas para el usuario y administrador
 
 Dentro del directorio de `productos` creamos el archivo y lo agregamos con el siguiente nombre:
 
@@ -29,6 +29,34 @@ Dentro del directorio de `productos` creamos el archivo y lo agregamos con el si
 `paypal.blade.php`        --> Añadimos todo el codigo pertinente a ese archivo: [paypal.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/productos/paypal.blade.php)
 
 `productoform.blade.php`        --> Añadimos todo el codigo pertinente a ese archivo: [productoform.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/productos/productoform.blade.php)
+
+### Agregando el componente de autentificacion de laravel
+
+<b>En el directorio de nuestro proyecto</b> escribiremos lo siguiente en la terminal:
+
+~~~
+docker-compose exec laravel.test composer require laravel/ui
+~~~
+~~~
+docker-compose exec laravel.test php artisan ui bootstrap --auth
+~~~
+~~~
+sudo apt install npm
+~~~
+
+### Agregando las vistas para el usuario y administrador
+
+Dentro del directorio de `layouts` se nos creara unos archivos predefinos del componente de autentificacion de laravel, sin embargo deberemos de modificarlos:
+
+`app.blade.php`  --> le agregamos todo el codigo pertinente a ese archivo: [app.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/layouts/app.blade.php)
+
+Dentro del directorio de `auth` se nos creara unos archivos predefinos del componente de autentificacion de laravel, sin embargo deberemos de modificarlos:
+
+`login.blade.php`  --> le agregamos todo el codigo pertinente a ese archivo: [login.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/auth/login.blade.php)
+
+`register.blade.php`  --> le agregamos todo el codigo pertinente a ese archivo: [register.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/auth/register.blade.php)
+
+`verify.blade.php`  --> le agregamos todo el codigo pertinente a ese archivo: [verify.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/auth/verify.blade.php)
 
 
 [Volver a la introduccion del proyecto](https://github.com/carlosjose1267/carlosjoseapplaravel/tree/main)
