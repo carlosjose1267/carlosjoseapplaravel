@@ -13,14 +13,19 @@ El objetivo de este proyecto sera que consigas emular todo el proceso de esta ti
 
 La idea es que puedas levantar tu PROPIO proyecto en tu maquina local utilizando mi codigo en todo momento para las creaciones de las vistas, funciones de los controladores y demás, aqui puedes ver algunas capturas de como se visualiza este proyecto.
 
-## Para vista del usuario
+## La vista del usuario
+La vista del usuario, es ruta principal de la vista de nuestro proyecto, en ella nos servirá para realizar las compras los productos mostrados en ella mediante la api de Paypal.
+
 <p align="center">
-<img src="https://i.postimg.cc/MGLKZXmB/Captura.png"   
+ <img src="https://i.postimg.cc/1RGNmhfz/Captura.png">
 </p>
-[Captura.png](https://postimg.cc/KKnyJGVc)
     
-## Para la vista del administrador
-img en proceso
+## La vista del administrador
+La vista del administrador es la vista donde solo con el acceso autorizado podremos realizar funcionalidades como crear, actualizar, o borrar los productos pertinentes para la vista del usuario.
+
+<p align="center">
+ <img src="https://i.postimg.cc/kGTJ2y0T/Captura3.png">
+</p>
 
 ### Indice
 
