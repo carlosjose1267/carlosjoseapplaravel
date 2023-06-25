@@ -17,7 +17,7 @@ La idea es que puedas levantar tu PROPIO proyecto en tu maquina local utilizando
 La vista del usuario, es ruta principal de la vista de nuestro proyecto, en ella nos servirá para realizar las compras los productos mostrados en ella mediante la api de Paypal.
 
 <p align="center">
- <img src="https://i.postimg.cc/1RGNmhfz/Captura.png">
+ <img src="https://i.postimg.cc/qq9gQw7j/Captura5.png">
 </p>
     
 ## La vista del administrador
