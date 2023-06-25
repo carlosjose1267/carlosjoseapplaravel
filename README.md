@@ -25,5 +25,6 @@ La idea es que puedas levantar tu PROPIO proyecto en tu maquina local utilizando
 * [Creación de la base de datos](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/basededatoslaravel.md)
 * [Creación de las vistas](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/vistasdelaravel.md)
 * [Creación del modelo, rutas y controlador](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/modelodelaravel.md)
-
+* [Validaciones de los formularios](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/validaciondelaravel.md)
+  
 ## TUTORIAL EN PROCESO ... 
