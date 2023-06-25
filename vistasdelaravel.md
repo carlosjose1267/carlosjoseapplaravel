@@ -72,8 +72,5 @@ Por ultimo, le agregamos la migracion
 docker-compose exec laravel.test php artisan migrate
 ~~~
 
-[Volver a la introduccion del proyecto](https://github.com/carlosjose1267/carlosjoseapplaravel/tree/main)
-
-
 
 [Volver a la introduccion del proyecto](https://github.com/carlosjose1267/carlosjoseapplaravel/tree/main)
