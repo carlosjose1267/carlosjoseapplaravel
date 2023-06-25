@@ -22,4 +22,3 @@ Nos vamos a su directorio de nuestro proyecto `app/Http/Controllers`
 
 `ProductController.php`  --> Le remplazas todo el codigo pertinente a ese archivo: [ProductController.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/app/Http/Controllers/ProductController.php)
 
-
