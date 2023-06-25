@@ -38,7 +38,7 @@ id -nG
 sudo usermod -aG docker carlos
 ~~~
 ### Importante recordar sobre (docker y sus privilegios)
-Si no aplicamos esto, tendremos que usar todos los comandos con sudo, incluyendo las operaciones para el proyecto, tambien debes saber que tienes que ejecutar estos comandos de docker sin priviligios para <b>cada terminal</b> en la cual pretendes escribir.
+Si no aplicamos esto, tendremos que usar todos los comandos con sudo, incluyendo las operaciones para el proyecto, tambien debes saber que tienes que ejecutar estos comandos de docker sin priviligios para <b>cada terminal</b> en la cual pretendas escribir.
 
 ### Instalacion de Docker Compose
 ~~~
