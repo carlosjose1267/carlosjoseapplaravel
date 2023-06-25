@@ -4,7 +4,7 @@ Puedes cambiar el nombre de tu proyecto, en mi caso se llama `carlosapp`
 ~~~
 curl -s https://laravel.build/carlosapp | bash
 ~~~
-Accede al directorio de tu proyecto, `cd carlosapp`, y ejecutalo:
+Accede al directorio de tu proyecto, `cd carlosapp`, y ejecutalo: (este proceso puede tardar varios minutos)
 ~~~
 ./vendor/bin/sail up
 ~~~
