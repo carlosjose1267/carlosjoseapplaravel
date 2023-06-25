@@ -8,7 +8,7 @@ y para todas las situaciones, unicamente necesitamos cambiar el valor que nos de
 
 `validation.php`  --> y le remplazas todo el codigo pertinente a ese archivo: [validation.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/lang/en/validation.php)
 
-`pagination.php`  --> y le remplazas todo el codigo pertinente a ese archivo: [validation.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/lang/en/pagination.php)
+`pagination.php`  --> y le remplazas todo el codigo pertinente a ese archivo: [pagination.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/lang/en/pagination.php)
 
 
 
