@@ -20,14 +20,14 @@ Dentro del directorio de `layouts` creamos el archivo y lo agregamos con el sigu
 
 Dentro del directorio de `productos` creamos el archivo y lo agregamos con el siguiente nombre:
 
-`editform.blade.php`  --> y le agregamos todo el codigo pertinente a ese archivo: [editform.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/productos/editform.blade.php)
+`editform.blade.php`        --> Añadimos todo el codigo pertinente a ese archivo: [editform.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/productos/editform.blade.php)
 
-`lista.blade.php`  --> y le agregamos todo el codigo pertinente a ese archivo: [lista.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/productos/lista.blade.php)
+`lista.blade.php`        --> Añadimos todo el codigo pertinente a ese archivo: [lista.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/productos/lista.blade.php)
 
-`main.blade.php`  --> y le agregamos todo el codigo pertinente a ese archivo: [main.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/productos/main.blade.php)
+`main.blade.php`        --> Añadimos todo el codigo pertinente a ese archivo: [main.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/productos/main.blade.php)
 
-`paypal.blade.php`  --> y le agregamos todo el codigo pertinente a ese archivo: [paypal.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/productos/paypal.blade.php)
+`paypal.blade.php`        --> Añadimos todo el codigo pertinente a ese archivo: [paypal.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/productos/paypal.blade.php)
 
-`productoform.blade.php`  --> y le agregamos todo el codigo pertinente a ese archivo: [productoform.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/productos/productoform.blade.php)
+`productoform.blade.php`        --> Añadimos todo el codigo pertinente a ese archivo: [productoform.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/productos/productoform.blade.php)
 
 
