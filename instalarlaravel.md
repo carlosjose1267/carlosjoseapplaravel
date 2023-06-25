@@ -8,9 +8,11 @@ Accede al directorio de tu proyecto, `cd carlosapp`, y ejecutalo: (este proceso 
 ~~~
 ./vendor/bin/sail up
 ~~~
+<b>Nota:</b>
+Una vez arranque el proyecto deberemos irnos a nuestro navegador y colocar la siguiente ruta: `http://0.0.0.0` <br>Tambien podremos detener el proyecto desde la terminal presionando `crtl+c`
 
+#### Editor de codigo
 Ahora necesitaremos agregar y modificar diferentes apartados, por lo que necesitaremos de un editor de codigo, puedes usar visual studio code:
-
 ~~~
 sudo apt update
 ~~~
