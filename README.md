@@ -14,8 +14,10 @@ El objetivo de este proyecto sera que consigas emular todo el proceso de esta ti
 La idea es que puedas levantar tu PROPIO proyecto en tu maquina local utilizando mi codigo en todo momento para las creaciones de las vistas, funciones de los controladores y demás, aqui puedes ver algunas capturas de como se visualiza este proyecto.
 
 ## Para vista del usuario
-img en proceso
-
+<p align="center">
+<img src="https://i.postimg.cc/MGLKZXmB/Captura.png"   
+</p>
+    
 ## Para la vista del administrador
 img en proceso
 
