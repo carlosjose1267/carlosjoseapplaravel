@@ -21,6 +21,6 @@ La idea es que puedas levantar tu PROPIO proyecto en tu maquina local utilizando
 ## Indice
 
 * [Instalacion de Docker y Docker Compose](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/instalardocker.md)
-* [Instalacion y creacion de Proyecto de Laravel](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/instalarlaravel.md)
+* [Instalacion y creacion del proyecto](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/instalarlaravel.md)
 
 ## TUTORIAL EN PROCESO ... 
