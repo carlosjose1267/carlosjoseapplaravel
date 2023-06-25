@@ -17,6 +17,7 @@ La idea es que puedas levantar tu PROPIO proyecto en tu maquina local utilizando
 <p align="center">
 <img src="https://i.postimg.cc/MGLKZXmB/Captura.png"   
 </p>
+[Captura.png](https://postimg.cc/KKnyJGVc)
     
 ## Para la vista del administrador
 img en proceso
