@@ -31,3 +31,4 @@ Dentro del directorio de `productos` creamos el archivo y lo agregamos con el si
 `productoform.blade.php`        --> Añadimos todo el codigo pertinente a ese archivo: [productoform.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/productos/productoform.blade.php)
 
 
+[Volver a la introduccion del proyecto](https://github.com/carlosjose1267/carlosjoseapplaravel/tree/main)
