@@ -67,6 +67,12 @@ Dentro del directorio de `auth/password` se nos creara unos archivos predefinos 
 `reset.blade.php`  --> le agregamos todo el codigo pertinente a ese archivo: [reset.blade.php](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/resources/views/auth/passwords/reset.blade.php)
 
 
+Por ultimo, le agregamos la migracion
+~~~
+docker-compose exec laravel.test php artisan migrate
+~~~
+
+[Volver a la introduccion del proyecto](https://github.com/carlosjose1267/carlosjoseapplaravel/tree/main)
 
 
 
