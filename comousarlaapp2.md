@@ -13,3 +13,7 @@ Vemos como se nos cargara el importe del coste
 Y pinchamos en `Completar la compra`
 
 <p align="center"><img src="https://i.postimg.cc/bJtSzqd2/Captura25.png"></p>
+
+ Aceptamos la alerta y automaticamente se nos comenzara a descargar nuestro archivo de nuestro enlace de descarga:
+
+ <p align="center"><img src="https://i.postimg.cc/HkXN7yKS/Captura26.png"></p>
