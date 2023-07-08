@@ -17,3 +17,7 @@ Y pinchamos en `Completar la compra`
  Aceptamos la alerta y automaticamente se nos comenzara a descargar nuestro archivo de nuestro enlace de descarga:
 
  <p align="center"><img src="https://i.postimg.cc/HkXN7yKS/Captura26.png"></p>
+
+> Podemos ver la transicion de nuestra compra en nuestra cuenta de Paypal, lo podemos verificar si nos situamos donde creamos los usuarios sandbox.
+
+[Volver a la introduccion del proyecto](https://github.com/carlosjose1267/carlosjoseapplaravel/tree/main)
