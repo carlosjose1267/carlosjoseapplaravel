@@ -30,4 +30,4 @@ La idea es que puedas levantar tu PROPIO proyecto en tu maquina local utilizando
 * [Configuraciones previas](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/configuracionesprevias.md)
 * [Como usar la aplicación - Agregando, editando y borrando productos](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/comousarlaapp.md)
 * [Como usar la aplicación - Comprando productos](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/comousarlaapp2.md)
-## TUTORIAL EN PROCESO ... 
+
