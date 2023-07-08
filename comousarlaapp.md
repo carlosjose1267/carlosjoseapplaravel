@@ -51,6 +51,15 @@ Por ultimo, tenemos la funcion para borrar los productos de la lista, simplement
 <img src="https://i.postimg.cc/Z5R122vN/Captura20.png"   
 </p>
 
+### Desconectarse del usuario admin
+
+Simplemente nos vamos al nombre de nuestro administrador, pinchamos sobre el y hacemos clic en `Desconectar`
+
+<p align="center">
+<img src="https://i.postimg.cc/BQvnqqj7/Captura21.png"   
+</p>
+
+> Automaticamente nos redigidira a la vista del usuario, ya que nos sacara de la vista autentificada al no tener privilegios para realizar las acciones pertinentes en la lista de productos.
 
 [Volver a la introduccion del proyecto](https://github.com/carlosjose1267/carlosjoseapplaravel/tree/main)
 
