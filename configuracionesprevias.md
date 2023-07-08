@@ -38,3 +38,5 @@ En ella colocaremos **unicamente** la imagen `logopagina.jpg` dentro del directo
 La imagenes de los productos las puedes obtener desde aqui -> [Imagenes de la app](https://github.com/carlosjose1267/carlosjoseapplaravel/tree/main/public/imagen)
 
 > Las descargaremos una a una y la dejaremos en algun lugar de nuestro escritorio, (no es necesario colocarlas dentro de la app, excepto logopagina.jpg).
+
+[Volver a la introduccion del proyecto](https://github.com/carlosjose1267/carlosjoseapplaravel/tree/main)
