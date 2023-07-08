@@ -1,4 +1,4 @@
-### Algunos requisitos y configuraciones previas externas
+### Algunos requisitos y configuraciones previas
 
 Deberemos de colocar el productos que queremos que el cliente obtenga una vez compre,
 por lo que en este caso deberemos de subir nuestro producto a un servidor como google drive y obtener el enlace de descarga de ese archivo.
