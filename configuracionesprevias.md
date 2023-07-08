@@ -26,6 +26,7 @@ por lo que en este caso deberemos de subir nuestro producto a un servidor como g
 
 > Puedes usar estos si quieres, aunque tambien puedes crear tu propio de enlace de descargar directa de cualquier servidor de almacenamiento.
 
+### Imagenes de la app
 Ahora crearemos el directorio `imagen` dentro de `public` tal y como podemos ver:
 
 <p align="center">
@@ -35,3 +36,5 @@ Ahora crearemos el directorio `imagen` dentro de `public` tal y como podemos ver
 En ella colocaremos **unicamente** la imagen `logopagina.jpg` dentro del directorio `imagen`, **las demas imagenes se iran agregando solas al directorio ya veremos como mas adelante**.
 
 La imagenes de los productos las puedes obtener desde aqui -> [Imagenes de la app](https://github.com/carlosjose1267/carlosjoseapplaravel/tree/main/public/imagen)
+
+> Las descargaremos una a una y la dejaremos en algun lugar de nuestro escritorio, (no es necesario colocarlas dentro de la app, excepto logopagina.jpg).
