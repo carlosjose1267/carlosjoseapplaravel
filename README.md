@@ -28,6 +28,6 @@ La idea es que puedas levantar tu PROPIO proyecto en tu maquina local utilizando
 * [Validaciones de los formularios](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/validacionesdelaravel.md)
 * [Configuración de la API de Paypal](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/apipaypal.md)
 * [Configuraciones previas](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/configuracionesprevias.md)
-* [Como usar la Aplicación](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/comousarlaapp.md)
+* [Como usar la Aplicación - Agregando, editando y borrando productos](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/comousarlaapp.md)
   
 ## TUTORIAL EN PROCESO ... 
