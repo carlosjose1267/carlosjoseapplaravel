@@ -24,7 +24,7 @@ por lo que en este caso deberemos de subir nuestro producto a un servidor como g
 1sM8yuAlrAL6-cz9Efc_S6UKYWsfu7YGB     -> Viuda Negra
 ~~~
 
-> Puedes usar estos si quieres, aunque tambien puedes crear tu propio de enlace de descargar directa de cualquier servidor de almacenamiento.
+> Puedes usar estos si quieres, aunque tambien puedes crear tu propio de enlace de descargar directa del servidor de google.
 
 ### Imagenes de la app
 Ahora crearemos el directorio `imagen` dentro de `public` tal y como podemos ver:
