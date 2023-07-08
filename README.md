@@ -27,5 +27,7 @@ La idea es que puedas levantar tu PROPIO proyecto en tu maquina local utilizando
 * [Creación del modelo, rutas y controlador](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/modelodelaravel.md)
 * [Validaciones de los formularios](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/validacionesdelaravel.md)
 * [Configuración de la API de Paypal](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/apipaypal.md)
+* [Configuraciones previas externas](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/configuracionesprevias.md)
+* [Como usar la Aplicación](https://github.com/carlosjose1267/carlosjoseapplaravel/blob/main/comousarlaapp.md)
   
 ## TUTORIAL EN PROCESO ... 
